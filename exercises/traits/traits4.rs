@@ -4,7 +4,6 @@
 // Don't change any line other than the marked one.
 // Execute `rustlings hint traits4` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
 
 pub trait Licensed {
     fn licensing_info(&self) -> String {
@@ -20,7 +19,7 @@ impl Licensed for SomeSoftware {}
 impl Licensed for OtherSoftware {}
 
 // YOU MAY ONLY CHANGE THE NEXT LINE
-fn compare_license_types(software: ??, software_two: ??) -> bool {
+fn compare_license_types(software: &dyn Licensed, software_two: &dyn Licensed) -> bool {
     software.licensing_info() == software_two.licensing_info()
 }
 
@@ -33,7 +32,7 @@ mod tests {
         let some_software = SomeSoftware {};
         let other_software = OtherSoftware {};
 
-        assert!(compare_license_types(some_software, other_software));
+        assert!(compare_license_types(&some_software, &other_software));
     }
 
     #[test]
@@ -41,6 +40,6 @@ mod tests {
         let some_software = SomeSoftware {};
         let other_software = OtherSoftware {};
 
-        assert!(compare_license_types(other_software, some_software));
+        assert!(compare_license_types(&other_software, &some_software));
     }
 }
