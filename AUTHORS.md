@@ -273,6 +273,12 @@ authors.
     <tr>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/Nagidal"><img src="https://avatars.githubusercontent.com/u/7075397?v=4?s=100" width="100px;" alt="Nagidal"/><br /><sub><b>Nagidal</b></sub></a><br /><a href="#content-Nagidal" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://adabrew.com"><img src="https://avatars.githubusercontent.com/u/25161597?v=4?s=100" width="100px;" alt="Adam Brewer"/><br /><sub><b>Adam Brewer</b></sub></a><br /><a href="#content-adamhb123" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/eugkhp"><img src="https://avatars.githubusercontent.com/u/25910599?v=4?s=100" width="100px;" alt="Eugene"/><br /><sub><b>Eugene</b></sub></a><br /><a href="#tool-eugkhp" title="Tools">🔧</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://social.linux.pizza/@navicore"><img src="https://avatars.githubusercontent.com/u/110999?v=4?s=100" width="100px;" alt="Ed Sweeney"/><br /><sub><b>Ed Sweeney</b></sub></a><br /><a href="#content-navicore" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/javihernant"><img src="https://avatars.githubusercontent.com/u/73640929?v=4?s=100" width="100px;" alt="javihernant"/><br /><sub><b>javihernant</b></sub></a><br /><a href="#content-javihernant" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/VegardMatthey"><img src="https://avatars.githubusercontent.com/u/59250656?v=4?s=100" width="100px;" alt="Vegard"/><br /><sub><b>Vegard</b></sub></a><br /><a href="#content-VegardMatthey" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/ryanwhitehouse"><img src="https://avatars.githubusercontent.com/u/13400784?v=4?s=100" width="100px;" alt="Ryan Whitehouse"/><br /><sub><b>Ryan Whitehouse</b></sub></a><br /><a href="#content-ryanwhitehouse" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/guoard"><img src="https://avatars.githubusercontent.com/u/65511355?v=4?s=100" width="100px;" alt="Ali Afsharzadeh"/><br /><sub><b>Ali Afsharzadeh</b></sub></a><br /><a href="#content-guoard" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
